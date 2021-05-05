@@ -1,5 +1,5 @@
 # WEB-DATA-ACCESS
-A project which i did during my course on `Coursera` by Dr. Charles Severance. It have codes of accessing/parsing data from XML and JSON files and then visualize it using JS.
+A project which i did during my course on `Coursera` by Dr. Charles Severance. It have codes written in Python for accessing/parsing data from XML, TXT and JSON files and then visualize it using JS.
 
 1. Parsing data from **.txt** files.
 
