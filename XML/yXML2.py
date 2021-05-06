@@ -13,7 +13,7 @@ input = '''
 	</user>
 	</users>
 </stuff>'''
-
+#changes into a retrievale and parsable format
 stuff = ET.fromstring(input)
 lst = stuff.findall('users/user')
 print('User count:', len(lst))
